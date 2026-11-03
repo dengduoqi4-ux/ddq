@@ -1,0 +1,138 @@
+{
+  "source": "用户提供的 GridCore.ts / PieceArt.ts 形状清单；当前云端仓库未包含这些工程文件，尚未独立复核",
+  "coordinate_system": "左下原点，x 向右，y 向上；无需旋转或镜像",
+  "shapes": [
+    {
+      "id": "single",
+      "cells": [
+        [
+          0,
+          0
+        ]
+      ],
+      "file": "block_green_single.png"
+    },
+    {
+      "id": "bar2h",
+      "cells": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "file": "block_green_bar2h.png"
+    },
+    {
+      "id": "bar2v",
+      "cells": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ]
+      ],
+      "file": "block_green_bar2v.png"
+    },
+    {
+      "id": "bar3h",
+      "cells": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          2,
+          0
+        ]
+      ],
+      "file": "block_green_bar3h.png"
+    },
+    {
+      "id": "bar3v",
+      "cells": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ],
+      "file": "block_green_bar3v.png"
+    },
+    {
+      "id": "lleft",
+      "cells": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          0,
+          1
+        ]
+      ],
+      "file": "block_green_lleft.png"
+    },
+    {
+      "id": "lright",
+      "cells": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ]
+      ],
+      "file": "block_green_lright.png"
+    },
+    {
+      "id": "square2",
+      "cells": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          1
+        ]
+      ],
+      "file": "block_green_square2.png"
+    }
+  ]
+}
